@@ -1,0 +1,95 @@
+body{
+    background-color: #090435;
+    color:white;
+    margin-left: 30px;
+}
+
+#HeaderDiv{
+    border-style:solid;
+    border-width:10px;
+    border-color:#00c8ff;
+    padding: 10px;
+    background-color:#110666;
+    width:600px;
+    height:70px;
+    position:relative;
+}
+
+#Title{
+    text-align: center;
+    font-family: 'Arvo';
+    font-size: 25px;
+    color:white;
+}
+
+#house{
+    cursor: pointer;
+    width:50px;
+    height: 50px;
+    position:absolute;
+    top:10%;
+}
+
+#logo{
+    position:relative;
+    top:10%;
+    left:60%;
+    border-style:solid;
+    border-width:10px;
+    border-color:#00c8ff;
+    background-color:#110666;
+    width:100px;
+    height:100px;
+    float:left;
+}
+
+#Content{
+    position:relative;
+    top:30%;
+    vertical-align: middle;
+    display: inline;
+}
+
+.Stars{
+    vertical-align: middle;
+}
+
+button{
+    color:White;
+    background-color: rgb(9, 9, 195);
+    font-family: 'Arvo';
+    border-style:solid;
+    border-width:7px;
+    border-color:black;
+    width:100px;
+    height:40px;
+    cursor: pointer;
+}
+
+button:hover{
+    color:#2cfcfc;
+}
+
+#BlogDiv{
+    border-style:solid;
+    border-width:5px;
+    border-color:#00c8ff;
+    color:white;
+    font-size: 18px;
+    font-family: 'Arvo';
+}
+
+.image{
+    float:left;
+}
+
+#p{
+    border-style:solid;
+    border-width:5px;
+    border-color:#00c8ff;
+    color:white;
+    font-size: 14px;
+    font-family: 'Arial';
+    width: 800px;
+    padding: 10px;
+}

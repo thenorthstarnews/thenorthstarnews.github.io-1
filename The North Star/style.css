@@ -1,0 +1,100 @@
+.Social{
+        cursor: pointer;
+        width: 50px;
+        height: 50px;
+}
+
+#HeaderDiv{
+    border-style:solid;
+    border-width:10px;
+    border-color:#00c8ff;
+    padding: 10px;
+    background-color:#110666;
+    width:600px;
+    height:70px;
+}
+
+#Title{
+    text-align: center;
+    font-family: 'Arvo';
+    font-size: 25px;
+    color:white;
+}
+
+body{
+    background-color: #090435;
+    color:white;
+    margin-left: 30px;
+    margin-left: 30px;
+    position:static;
+}
+
+#DescDiv{
+    border-style:solid;
+    border-width:10px;
+    border-color:#00c8ff;
+    padding: 10px;
+    background-color:#110666;
+    width:650px;
+    height:50px;
+}
+
+#Desc{
+    text-align: center;
+    font-family: 'Arvo';
+    font-size: 18px;
+    color:white;
+}
+
+#logo{
+    position:relative;
+    top:10%;
+    left:60%;
+    border-style:solid;
+    border-width:10px;
+    border-color:#00c8ff;
+    background-color:#110666;
+    width:150px;
+    height:150px;
+    float:left;
+}
+
+#stars{
+    float: left;
+    position:relative;
+    left:47%;
+    width:200px;
+    height:150px;
+    top:200px;
+}
+
+#NotLogo{
+    position:relative;
+    right:10%;
+}
+
+#Categories{
+    border-style: solid;
+    border-width:10px;
+    border-color:#00c8ff;
+    position:relative;
+    left:-30%;
+    width:82px;
+    float: right;
+}
+.ButtonC{
+    color:White;
+    background-color: rgb(9, 9, 195);
+    font-family: 'Arvo';
+    border-style:solid;
+    border-width:2px;
+    border-color:black;
+    width:80px;
+    height:80px;
+    cursor: pointer;
+}
+
+button:hover{
+    color:#2cfcfc;
+}
+

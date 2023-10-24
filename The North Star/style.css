@@ -16,7 +16,7 @@
 
 #Title{
     text-align: center;
-    font-family: 'Arvo';
+    font-family: 'Oswald';
     font-size: 25px;
     color:white;
 }
@@ -27,6 +27,7 @@ body{
     margin-left: 30px;
     margin-left: 30px;
     position:static;
+        font-family: 'Inconsolata', monospace;
 }
 
 #DescDiv{
@@ -41,7 +42,7 @@ body{
 
 #Desc{
     text-align: center;
-    font-family: 'Arvo';
+   font-family: 'Inconsolata', monospace;
     font-size: 18px;
     color:white;
 }
@@ -81,6 +82,7 @@ body{
     left:-30%;
     width:82px;
     float: right;
+        font-family: 'Inconsolata', monospace;
 }
 .ButtonC{
     color:White;
@@ -90,6 +92,7 @@ body{
     border-width:2px;
     border-color:black;
     width:80px;
+        font-family: 'Inconsolata', monospace;
     height:80px;
     cursor: pointer;
 }
